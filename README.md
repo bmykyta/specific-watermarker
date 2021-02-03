@@ -1,4 +1,4 @@
-<p style="text-align: center"><img src="/public/images/file-upload-page.png" width="1000" height="596" alt="Upload image page"></p>
+<p style="text-align: center"><img src="/public/images/file-upload-page.png" alt="Upload image page"></p>
 
 ## About Test Task
 
@@ -6,4 +6,6 @@ You upload an image and then service extract primary color of this image in RGB 
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-<p style="text-align: center"><img src="/public/images/watermark-result.png" width="1500"  height="666" alt="Result of watermark"></p>
+Here is how looks the result of uploaded image with a watermark.
+
+<p style="text-align: center"><img src="/public/images/watermark-result.png" alt="Result of watermark"></p>
